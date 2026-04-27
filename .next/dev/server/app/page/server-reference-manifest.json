@@ -1,0 +1,29 @@
+{
+  "node": {
+    "00f135287bd9e12b6156213485982dc2dde6bbe9af": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/projects/afya/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/projects/afya/app/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "initiateHandshake",
+          "filename": "projects/afya/app/actions.ts"
+        }
+      },
+      "exportedName": "initiateHandshake",
+      "filename": "projects/afya/app/actions.ts"
+    },
+    "4083fd7c9c00d50e4823734531161c7cdf87e362d3": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/projects/afya/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/projects/afya/app/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "completeHandshake",
+          "filename": "projects/afya/app/actions.ts"
+        }
+      },
+      "exportedName": "completeHandshake",
+      "filename": "projects/afya/app/actions.ts"
+    }
+  },
+  "edge": {}
+}

@@ -227,7 +227,7 @@ export function AfyaIntegration() {
         </Card>
 
         {/* Environment Variables Info */}
-        <Card className="p-6 bg-amber-50 border border-amber-200">
+        {/* <Card className="p-6 bg-amber-50 border border-amber-200">
           <h3 className="font-semibold text-amber-900 mb-2">Environment Variables</h3>
           <p className="text-sm text-amber-800 mb-3">
             Add these to your project settings:
@@ -237,7 +237,7 @@ export function AfyaIntegration() {
             <div>AFYA_PLATFORM_KEY=afya_2d00d74512953c933172ab924f5073fa</div>
             <div>AFYA_PLATFORM_SECRET=e0502a5c052842cf19d0305455437b791d201761c88e2ad641680b2d5d356ba8</div>
           </div>
-        </Card>
+        </Card> */}
       </div>
     </div>
   );
